@@ -1,4 +1,4 @@
-# aulagit
+# Aula de Git da Code.Education
 git init
 git add README.md
 git commit -m 'primeiro commit'
